@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Honestly I just want to enhance my experiences and get invovled in tech"
 
-linkedin: www.linkedin.com/in/fawas-adelekan-390855250/
+linkedin: www.linkedin.com/in/fawas-adelekan-390855250
 image: /assets/images/me.jpg
 ---

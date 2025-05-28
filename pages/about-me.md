@@ -16,15 +16,15 @@ about:
     When I’m not working on research, I enjoy watching wrestling, working out, and trying new things.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🤼‍♂️
+      title: Watching Wrestling
+      description: Wrestling is fun and I like watching it to connect it to my life personally.
+    - icon: 🦾
+      title: Working Out
+      description: It helps keep me grounded and also I have nothing else to do.
+    - icon:  🏊🏾‍♂️
+      title: Swimming
+      description: One of my newer hobbies I'm working on, I've been interested so far.
 
   gallery:
     - image: /assets/images/me-guitar.png

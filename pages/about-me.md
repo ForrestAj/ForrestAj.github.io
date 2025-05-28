@@ -7,7 +7,7 @@ about:
   name: Fawas Adelekan
   role: Computer Science @ Morgan State University
   image: /assets/images/me.jpeg
-  linkedin: https://linkedin.com/in/fawas-adelekan-390855250
+  linkedin:https://linkedin.com/in/fawas-adelekan-390855250
   bio: |
     I currently have studied Computer Science at Morgan State University, I'm trying to restrengthen some of the stuff I'm rusty on.
 

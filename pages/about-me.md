@@ -4,16 +4,16 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Fawas Adelekan
+  role: Computer Science @ Morgan State University
+  image: /assets/images/me.jpeg
+  linkedin: www.linkedin.com/in/fawas-adelekan-390855250
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I currently have studied Computer Science at Morgan State University, I'm trying to restrengthen some of the stuff I'm rusty on.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My Studies gear towards learning how to assess technical problems and knowing how to solve them especially within the software of computer and technology, I have assisted in Technical Services but haven't explored outside of my scope.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    When I’m not working on research, I enjoy watching wrestling, working out, and trying new things.
 
   hobbies:
     - icon: 🎺

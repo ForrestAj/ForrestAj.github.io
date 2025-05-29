@@ -4,23 +4,23 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Daniel Olowabi
+  title: Data Analyst// SDG Advocate// Graphics designer
+  image: /assets/images/daniel.jpg
+  website: https://linkedin.com/in/owolabi-daniel-olusayo/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Daniel provides Human Resources, Graphic and Logo Designer services. He is also a graduate research assistant in data analytics.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    He's excited to work on our group proctect. He's also getting his masters in Advaced Computing at the illustrious Morgan State University.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Edward Robinson
+  title: Professor of Practice @ Morgan State University
+  image: /assets/images/edward.jpg
+  website: https://linkedin.com/in/edward-g-robinson-iii-308bb568/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Edward G. Robinson III is an award-winning writer, editor and entrepreneur. He was a staff writer for the Raleigh News and Observer from Jan. 2004 to March 2012. He covered ACC college sports, serving as the Duke football beat writer, men’s basketball general assignment reporter and women’s basketball beat writer. He covered bowl games, NCAA Final Fours and an array of sports events over a 12-year career as a sports journalist. A native of Washington, D.C., he’s also worked at The Pittsburgh Post-Gazette, The Washington Post and Washington Afro-American.
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    He received his undergraduate journalism degree from American University and graduate nonfiction degree from Johns Hopkins University. He is currently writing a book with N.C. Central University coach LeVelle Moton, which is scheduled for release August 2014.
 
 ---

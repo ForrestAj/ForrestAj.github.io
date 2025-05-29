@@ -27,12 +27,11 @@ about:
       description: One of my newer hobbies I'm working on, I've been interested so far.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
+    - image: /assets/images/swim.webp
+      caption: What I imagine swimming looks like
+    - image: /assets/images/wrestling.jpeg
+      caption: Wrestling Creative Mode
+    - image: /assets/images/me.jpeg
       caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+   
 ---

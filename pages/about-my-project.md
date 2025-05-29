@@ -15,16 +15,11 @@ students valuable hands-on experience in rapidly growing fields.
 approach: |
   the AI/ML and/or tools to be used and their applications in the project.
 
-  - Transformers Library: Core technology for natural language processing (NLP), including text
-summarization and text-to-speech tasks.
-  - Deep Learning Frameworks (e.g., PyTorch, TensorFlow): Training and deploying custom
-machine learning models for text analysis and audio generation.
-  - Data Handling and Analysis (pandas, NumPy):Efficiently collecting, cleaning, and manipulating
-real-time match data to provide accurate input for downstream ML tasks.
-  - Audio/Voice Synthesis Tools:Transforming written summaries into natural-sounding voice-overs
-using deep learning-based text-to-speech systems.
-  - Version Control Systems (e.g., GitHub, GitLab):Managing the project’s collaborative
-development, code reviews, and iterative improvements.
+  - Transformers Library: Core technology for natural language processing (NLP), including text summarization and text-to-speech tasks.
+  - Deep Learning Frameworks (e.g., PyTorch, TensorFlow): Training and deploying custom machine learning models for text analysis and audio generation.
+  - Data Handling and Analysis (pandas, NumPy):Efficiently collecting, cleaning, and manipulating real-time match data to provide accurate input for downstream ML tasks.
+  - Audio/Voice Synthesis Tools:Transforming written summaries into natural-sounding voice-overs using deep learning-based text-to-speech systems.
+  - Version Control Systems (e.g., GitHub, GitLab):Managing the project’s collaborative development, code reviews, and iterative improvements.
 
   Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
 

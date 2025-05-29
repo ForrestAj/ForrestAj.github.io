@@ -3,8 +3,8 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Research FIFA Club World Cup 2025
-project_title: "Developing Post-game content using AI for automated soccer box scores and video news reportsg"
+subtitle: "Research FIFA Club World Cup 2025"
+project_title: "Developing Post-game content using AI for automated soccer box scores and video news reports"
 
 problem: |
   The project addresses the increasing demand for quick, accurate sports highlights while offering

@@ -20,7 +20,7 @@ approach: |
   - **Audio/Voice Synthesis Tools**: Used to convert written summaries into natural-sounding voice-overs.
   - **Version Control Systems** (e.g., GitHub, GitLab): To support collaborative development, code reviews, and iterative improvements.
 
-  Additionally, open-source tools such as OpenBCI, Python (with MNE, Scikit-learn), and ROS (Robot Operating System) will be used for prototyping and experimentation.
+  They will analyze past soccer matches summary from sport news outlet to create authentic game summaries for the model
 
 outcome: |
   - Demonstrated competency in AI/ML fundamentals.
@@ -28,7 +28,7 @@ outcome: |
   - Strong collaboration and communication skills.
   - A comprehensive final presentation and detailed technical documentation.
 
-  The final project report includes technical approaches, encountered challenges, and key lessons learned.
+  
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 

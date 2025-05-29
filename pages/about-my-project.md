@@ -3,7 +3,7 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Research: FIFA Club World Cup 2025
+subtitle: Research FIFA Club World Cup 2025
 project_title: "Developing Post-game content using AI for automated soccer box scores and video news reportsg"
 
 problem: |

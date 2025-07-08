@@ -11,7 +11,7 @@ graduate_mentor:
   bio: |
     Daniel provides Human Resources, Graphic and Logo Designer services. He is also a graduate research assistant in data analytics.
     
-    He's excited to work on our group proctect. He's also getting his masters in Advaced Computing at the illustrious Morgan State University.
+    He's excited to work on our group project. He's also getting his masters in Advaced Computing at the illustrious Morgan State University.
 
 faculty_mentor:
   name: Edward Robinson
